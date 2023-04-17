@@ -3,8 +3,9 @@
 |-|-|-|-|
 | 01. | Attacker can manipulate the myLink token's pricePerShare to take an unfair share | High | [Link](https://github.com/sherlock-audit/2022-10-mycelium-judging/blob/7babd1863dd7a557c128161957073f54f72e1370/001-H/117.md) |
 
+----
 
-## 1. A malicious early user/attacker can manipulate the myLink token's pricePerShare to take an unfair share of future users' deposits
+### H-01. A malicious early user/attacker can manipulate the myLink token's pricePerShare to take an unfair share of future users' deposits
 
 ### Summary
 A well known attack vector for almost all shares based liquidity pool contracts, where an early user can manipulate the price per share and profit from late users' deposits because of the precision loss caused by the rather large value of price per share.
