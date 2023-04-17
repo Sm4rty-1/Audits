@@ -5,7 +5,7 @@
 |-|-|-|-|
 | 01.| 8th - 9th Sept. 2022 | [Canto Dex Oracle](https://code4rena.com/contests/2022-09-canto-dex-oracle-contest) | [Report]()|
 | 0.| 23rd - 26th Sept. 2022 | [Nouns DAO](https://code4rena.com/contests/2022-08-nouns-dao-contest) | [Report]()|
-| 0.| 28/10/2022 - 31/10/2022 | [Paladin](https://code4rena.com/contests/2022-10-paladin-warden-pledges-contest) | [Report]()|
+| 0.| 28th - 31st Oct. 2022 | [Paladin](https://code4rena.com/contests/2022-10-paladin-warden-pledges-contest) | [Report]()|
 | 0.| /0/2022 - /0/2022 | [Juicebox v2]() | [Report]()|
 | 0.| /0/2022 - /0/2022 | [Holograph]() | [Report]()|
 | 0.| /0/2022 - /0/2022 | [3xcalibur]() | [Report]()|
