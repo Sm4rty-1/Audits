@@ -1,7 +1,7 @@
 # Findings:
 | | Findings | Severity | Link to Original Report |
 |-|-|-|-|
-| 01. | Use safeTransfer/safeTransferFrom consistently instead of transfer/transferFrom | Medium | [Link]https://github.com/sherlock-audit/2022-09-harpie-judging/blob/268305bfcbd651410587616254dcd50120ac01eb/001-M/157-m.md) |
+| 01. | Use safeTransfer/safeTransferFrom consistently instead of transfer/transferFrom | Medium | [Link](https://github.com/sherlock-audit/2022-09-harpie-judging/blob/268305bfcbd651410587616254dcd50120ac01eb/001-M/157-m.md) |
 
 ----
 
