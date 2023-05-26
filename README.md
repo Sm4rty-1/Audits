@@ -1,4 +1,4 @@
-# Samrat's smart contract security reviews - audit reports and findings
+# Samrat's aka Sm4rty smart contract security reviews - audit reports and findings
 
 ### Code4rena Contest:
 | Serial No. | Timeline | Audit Contests | Audit Findings |
