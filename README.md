@@ -3,7 +3,10 @@
 
 ## Code4rena Contest:
 Check out my C4 Profile here:
+
 https://code4rena.com/@Sm4rty
+
+![](/assets/Code4rena/image.png)
 
 ---
 
