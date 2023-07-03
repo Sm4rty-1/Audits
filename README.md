@@ -1,3 +1,4 @@
+![](assets/audit-report.png)
 
 # Samrat's aka Sm4rty smart contract security reviews - audit reports and findings
 
