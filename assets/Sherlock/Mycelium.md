@@ -58,3 +58,5 @@ Consider requiring a minimal amount of share tokens to be minted for the first m
 
 A similar issue found in recent Sherlock Contests:
 https://github.com/sherlock-audit/2022-08-sentiment-judging/blob/main/004-H/1-report.md
+
+---

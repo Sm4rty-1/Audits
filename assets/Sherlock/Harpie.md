@@ -23,3 +23,5 @@ This [similar medium-severity finding](https://consensys.net/diligence/audits/20
 ### Recommended Mitigation Steps:
 
 Consider using safeTransfer/safeTransferFrom or require() consistently.
+
+---
