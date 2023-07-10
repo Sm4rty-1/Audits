@@ -20,6 +20,8 @@ https://code4rena.com/@Sm4rty
 ---
 
 ## Independent Audits with [DetectBox](https://www.detectbox.io/audit): 
-| Serial No. | Timeline | Audit Report |
-|-|-|-|
-| 01.| 10/06/2023 - 13/06/2023 | [ETHER-VERSE](https://github.com/UNSNARL/audit-reports/blob/main/EtherVerse_SecurityAssessment_June2023.pdf) |
+Check out my Detectbox Profile here: https://app.detectbox.io/profile/sm4rty
+
+| Serial No. | Timeline | Project Name | Audit Report |
+|-|-|-|-|
+| 01.| 10/06/2023 - 13/06/2023 | [EtherVerse](https://www.etherverse.in/) | [Report](https://github.com/UNSNARL/audit-reports/blob/main/EtherVerse_SecurityAssessment_June2023.pdf) |
