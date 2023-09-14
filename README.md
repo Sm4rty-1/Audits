@@ -26,3 +26,4 @@ Check out my Detectbox Profile here: https://app.detectbox.io/profile/sm4rty
 |-|-|-|-|
 | 01.| 10/06/2023 - 13/06/2023 | [EtherVerse](https://www.etherverse.in/) | [Report](https://github.com/UNSNARL/audit-reports/blob/main/EtherVerse_SecurityAssessment_June2023.pdf) |
 | 02.| 28/07/2023 - 05/08/2023 | [Kunji Finance](https://www.kunji.finance/) | [Report](https://github.com/UNSNARL/audit-reports/blob/main/Kunji_Finance_Security_Assessment.pdf) |
+| 03.| 17/07/2023 - 24/08/2023 | [Payant Protocol](https://www.payant.io/) | *Coming Soon* |
