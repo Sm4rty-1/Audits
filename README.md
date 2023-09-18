@@ -16,6 +16,7 @@ https://code4rena.com/@Sm4rty
 |-|-|-|-|
 | 01.| 05/10/2022 - 08/10/2022 | [Mycelium](https://app.sherlock.xyz/audits/contests/7) | [Report](assets/Sherlock/Mycelium.md)|
 | 02.| 15/09/2022 - 18/09/2022 | [Harpie](https://app.sherlock.xyz/audits/contests/3) | [Report](assets/Sherlock/Harpie.md)|
+| 03.| 03/07/2023 - 08/07/2023 | [Bond Option](https://audits.sherlock.xyz/contests/99) | [Report](assets/Sherlock/Bond.md)|
 
 ---
 
@@ -26,4 +27,4 @@ Check out my Detectbox Profile here: https://app.detectbox.io/profile/sm4rty
 |-|-|-|-|
 | 01.| 10/06/2023 - 13/06/2023 | [EtherVerse](https://www.etherverse.in/) | [Report](https://github.com/UNSNARL/audit-reports/blob/main/EtherVerse_SecurityAssessment_June2023.pdf) |
 | 02.| 28/07/2023 - 05/08/2023 | [Kunji Finance](https://www.kunji.finance/) | [Report](https://github.com/UNSNARL/audit-reports/blob/main/Kunji_Finance_Security_Assessment.pdf) |
-| 03.| 17/07/2023 - 24/08/2023 | [Payant Protocol](https://www.payant.io/) | *Coming Soon* |
+| 03.| 17/07/2023 - 24/08/2023 | [Payant Escrow](https://www.payant.io/) | [Report](https://github.com/UNSNARL/audit-reports/blob/main/Payant_Report.pdf) |
