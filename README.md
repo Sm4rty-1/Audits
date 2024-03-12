@@ -12,7 +12,7 @@
 | 04.| 29/01/2024 - 06/03/2024 | [Dein Finance](https://dein.fi/) | *Comming Soon* |
 
 ---
-# Public Contests Profile:
+## Public Contests Profile:
 - **Code4rena**: https://code4rena.com/@Sm4rty
 - **Sherlock**: https://audits.sherlock.xyz/watson/Sm4rty
 - **CodeHawks**:https://www.codehawks.com/profile/clk4170ln003amb088n137st7
